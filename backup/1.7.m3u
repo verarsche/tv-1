@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="TNT",TF1
+https://live-tf1-hls-secure.cdn-0.diff.tf1.fr/out/v1/d44ead847e874bf391f7a5999c5c6d3c/tf1-hls-drm/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.imgur.com/eBGccGn.png" group-title="TNT",France 2
+https://github.com/ipstreet312/freeiptv/raw/master/feed/fr2.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/ZgTTt3L.png" group-title="TNT",France 3
+https://github.com/ipstreet312/freeiptv/raw/master/feed/fr3.m3u8
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="TNT",CANAL+ EN CLAIR
+https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="TNT",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="TNT",Arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.imgur.com/dRAPU7O.png" group-title="TNT",W9
+https://github.com/ipstreet312/freeiptv/raw/master/feed/w9.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/E1k83NG.png" group-title="TNT",TMC
+https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="TNT",TFX
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/ERsgHRi.png" group-title="TNT",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/l7Mr4WR.png" group-title="TNT",France 4
+https://github.com/ipstreet312/freeiptv/raw/master/feed/fr5.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/B9GfpDR.png" group-title="TNT",Gulli
+https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="TNT",TF1 Séries Films
+https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
+#EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/zV6ENp8.png" group-title="TNT",6ter
+https://github.com/ipstreet312/freeiptv/raw/master/feed/6ter.m3u8
+#EXTINF:-1 tvg-id="26" tvg-logo="https://i.imgur.com/FpltHeB.png" group-title="TNT",LCI
+https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8

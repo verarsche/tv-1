@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="Adulte",TF1
+https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="https://i.imgur.com/zYUKoXr.png" group-title="Adulte",Arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/31JCbGo.png" group-title="Adulte",M6
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/hAnirTf.png" group-title="Adulte",TFX
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/JPHIUnf.png" group-title="Film",TF1 Séries Films
+https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
