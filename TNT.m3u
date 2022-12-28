@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/e7683oF.png" group-title="TNT",TF1
-https://live-tf1-hls-secure.cdn-0.diff.tf1.fr/out/v1/d44ead847e874bf391f7a5999c5c6d3c/tf1-hls-drm/index.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://i.imgur.com/eBGccGn.png" group-title="TNT",France 2
 https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/2.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/ZgTTt3L.png" group-title="TNT",France 3
