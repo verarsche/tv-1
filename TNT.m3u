@@ -24,9 +24,9 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/78.png" group-title="TNT",France 4
 https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/14.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/482.png" group-title="TNT",Gulli
-https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/18.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1404.png" group-title="TNT",TF1 Séries Films
-https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/20.m3u8
 #EXTINF:-1 tvg-id="22" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1403.png" group-title="TNT",6ter
 https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/22.m3u8
 #EXTINF:-1 tvg-id="26" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/112.png" group-title="TNT",LCI
