@@ -1,53 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/192.png" group-title="TNT",TF1
-http://livetv.ktv.zone/3/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/4.png" group-title="TNT",France 2
-http://livetv.ktv.zone/4/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/2.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/80.png" group-title="TNT",France 3
-http://livetv.ktv.zone/5/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/3.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/34.png" group-title="TNT",CANAL+ EN CLAIR
-http://livetv.ktv.zone/6/play.m3u8
+https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/47.png" group-title="TNT",France 5
-http://livetv.ktv.zone/7/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/5.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/118.png" group-title="TNT",M6
-http://livetv.ktv.zone/8/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/6.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" group-title="TNT",Arte
-http://livetv.ktv.zone/9/play.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/445.png" group-title="TNT",C8
-http://livetv.ktv.zone/10/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/7.m3u8
 #EXTINF:-1 tvg-id="9" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/119.png" group-title="TNT",W9
-http://livetv.ktv.zone/11/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/9.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/195.png" group-title="TNT",TMC
-http://livetv.ktv.zone/12/play.m3u8
+https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/446.png" group-title="TNT",TFX
-http://livetv.ktv.zone/13/play.m3u8
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/444.png" group-title="TNT",NRJ 12
-http://livetv.ktv.zone/14/play.m3u8
-#EXTINF:-1 tvg-id="13" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/234.png" group-title="TNT",LCP
-http://livetv.ktv.zone/15/play.m3u8
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/78.png" group-title="TNT",France 4
-http://livetv.ktv.zone/16/play.m3u8
-#EXTINF:-1 tvg-id="15" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/481.png" group-title="TNT",BFM TV
-http://livetv.ktv.zone/17/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/14.m3u8
 #EXTINF:-1 tvg-id="16" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/226.png" group-title="TNT",C NEWS
-http://livetv.ktv.zone/18/play.m3u8
-#EXTINF:-1 tvg-id="17" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/458.png" group-title="TNT",CStar
-http://livetv.ktv.zone/19/play.m3u8
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/482.png" group-title="TNT",Gulli
-http://livetv.ktv.zone/20/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/18.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1404.png" group-title="TNT",TF1 Séries Films
-http://livetv.ktv.zone/22/play.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1401.png" group-title="TNT",L'Equipe 21
-http://livetv.ktv.zone/23/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/20.m3u8
 #EXTINF:-1 tvg-id="22" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1403.png" group-title="TNT",6ter
-http://livetv.ktv.zone/24/play.m3u8
-#EXTINF:-1 tvg-id="23" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1402.png" group-title="TNT",RMC Story
-http://livetv.ktv.zone/25/play.m3u8
-#EXTINF:-1 tvg-id="24" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1400.png" group-title="TNT",RMC Découverte
-http://livetv.ktv.zone/26/play.m3u8
-#EXTINF:-1 tvg-id="25" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1399.png" group-title="TNT",Chérie 25
-http://livetv.ktv.zone/27/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/22.m3u8
 #EXTINF:-1 tvg-id="26" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/112.png" group-title="TNT",LCI
-http://livetv.ktv.zone/28/play.m3u8
+https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" group-title="TNT",France Info
-http://livetv.ktv.zone/29/play.m3u8
+https://raw.githubusercontent.com/Paradise91D4/tv/main/m3u8/27.m3u8
